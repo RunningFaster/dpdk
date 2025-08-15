@@ -7,7 +7,7 @@
 1. 通过dpdk实现传输层tcp和upd协议
 2. 通过dpdk实现网络层arp和icmp协议
 
-![alt text]([image.png](https://runningfaster.github.io/assets/img/dpdk/image-20250519105050251.png))
+![alt text](image.png)
 
 ### 安装
 
